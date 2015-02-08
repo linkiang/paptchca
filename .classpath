@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="F:/apache-tomcat-7.0.55/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jcaptcha-1.0-all.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jcaptcha-extension-buffered-engine-1.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jcaptcha-extension-ehcache-store-1.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jcaptcha-extension-jbosscache-store-1.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jcaptcha-extension-sound-freetts-1.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
